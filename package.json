@@ -1,0 +1,17 @@
+{
+  "name": "icqbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "icq-bot": "^2.1.45",
+    "icq-bot-sdk": "^0.1.2",
+    "request": "^2.88.2",
+    "sleep": "^6.3.0"
+  }
+}
